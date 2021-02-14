@@ -1,0 +1,12 @@
+C:\Users\breke\Desktop\source\SHELLBUILDER\SHELLBUILDER\bin\Debug\SHELLBUILDER.exe.config
+C:\Users\breke\Desktop\source\SHELLBUILDER\SHELLBUILDER\obj\Debug\SHELLBUILDER.csprojResolveAssemblyReference.cache
+C:\Users\breke\Desktop\source\SHELLBUILDER\SHELLBUILDER\bin\Debug\SHELLBUILDER.exe
+C:\Users\breke\Desktop\source\SHELLBUILDER\SHELLBUILDER\bin\Debug\SHELLBUILDER.pdb
+C:\Users\breke\Desktop\source\SHELLBUILDER\SHELLBUILDER\obj\Debug\SHELLBUILDER.exe
+C:\Users\breke\Desktop\source\SHELLBUILDER\SHELLBUILDER\obj\Debug\SHELLBUILDER.pdb
+C:\Users\breke\Desktop\DarxiS_Win_Malware\SHELLBUILDER\SHELLBUILDER\bin\Debug\SHELLBUILDER.exe.config
+C:\Users\breke\Desktop\DarxiS_Win_Malware\SHELLBUILDER\SHELLBUILDER\obj\Debug\SHELLBUILDER.exe
+C:\Users\breke\Desktop\DarxiS_Win_Malware\SHELLBUILDER\SHELLBUILDER\obj\Debug\SHELLBUILDER.pdb
+C:\Users\breke\Desktop\DarxiS_Win_Malware\SHELLBUILDER\SHELLBUILDER\bin\Debug\SHELLBUILDER.exe
+C:\Users\breke\Desktop\DarxiS_Win_Malware\SHELLBUILDER\SHELLBUILDER\bin\Debug\SHELLBUILDER.pdb
+C:\Users\breke\Desktop\DarxiS_Win_Malware\SHELLBUILDER\SHELLBUILDER\obj\Debug\SHELLBUILDER.csprojResolveAssemblyReference.cache
