@@ -2,13 +2,6 @@
 # INFORMATION #
 ------------------
 
-##  Contact 
- * Email: darxis.exception@vfemail.net
- * Telegram: @Darxis
- * Jabber: Darxis@exploit.im
- * HackTheBox: https://www.hackthebox.eu/profile/37928
-------------------
-
 ## Encoder
 * IDE: Visual Studio 2013 (Ultimate)
 * Language: C# (.NET)
